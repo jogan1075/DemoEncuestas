@@ -26,6 +26,8 @@ Hay algunas maneras diferentes que puede instalar la aplicación
 
 Empezando
 
+> Llenar el formulario principal
+
 > Elegir tipo de encuesta (Buena o Mala)
 
 
